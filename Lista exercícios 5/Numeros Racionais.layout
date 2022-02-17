@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="racionais.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="5" Column="6"/>
+		</File>
+		<File Name="racionais.c" Top="No" Tabpos="2" TopLine="12">
+			<Cursor Line="39" Column="72"/>
+		</File>
+		<File Name="Programa racionais.c" Top="Yes" Tabpos="3" TopLine="1">
+			<Cursor Line="21" Column="23"/>
+		</File>
+	</Files>
+</Layout>
